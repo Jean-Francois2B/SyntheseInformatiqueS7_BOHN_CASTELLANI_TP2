@@ -1,5 +1,3 @@
-git lfs *.png
-
 # TP de Synthèse – Client TFTP
 ### BOHN Sébastien & CASTELLANI Jean-François
 Tout au long du TP, des constantes sont définies dans le fichier TP3_4.h puis utilisées dans les fichiers gettftp.c et puttftp.c .
